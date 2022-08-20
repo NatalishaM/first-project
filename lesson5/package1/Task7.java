@@ -1,4 +1,4 @@
-package package1;
+package lesson5.package1;
 //Answer the question: What is a package-private access? Create a simple program to demonstrate the package-private access.
 //        Tips:
 //        - Create two different packages

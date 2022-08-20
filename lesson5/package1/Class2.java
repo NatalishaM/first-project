@@ -1,4 +1,4 @@
-package package1;
+package lesson5.package1;
 
 public class Class2{
     public Class2 (){
