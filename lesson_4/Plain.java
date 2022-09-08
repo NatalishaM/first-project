@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 
 public class Plain extends Air {
     Wing small  = new Wing();

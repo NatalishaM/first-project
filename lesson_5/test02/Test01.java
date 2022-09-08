@@ -1,4 +1,4 @@
-package lesson5.test02;
+package lesson_5.test02;
 
 public class Test01 {
     @Override

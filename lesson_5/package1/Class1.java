@@ -1,15 +1,10 @@
-package lesson5.package1;
+package lesson_5.package1;
 
 public class Class1  {
-    int b = 12;
-    String o = "Hola";
-
-    public int getB() {
-        return b;
-    }
-
-    public String getO(){
-        return o;
-    }
+  String testField = "package private";
+          String getTestField(){
+      return testField + "from methot";
+          }
 }
+
 

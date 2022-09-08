@@ -1,4 +1,4 @@
-package lesson5;
+package lesson_5;
 //Answer the question: What is a private access? Create a simple program to demonstrate the private access.
 //        Tips:
 //        - Create two classes

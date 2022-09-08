@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 //Create a class StaticCalculator. It should have three fields: double firstValue, double secondValue and String operation.
 //        Create all required constructors to properly initialize your object.
 //        Consider the case when user does not provide any parameters when creates a new object.

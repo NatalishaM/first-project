@@ -1,4 +1,4 @@
-package lesson5.package1;
+package lesson_5.package2;
 //Answer the question: What is a package-private access? Create a simple program to demonstrate the package-private access.
 //        Tips:
 //        - Create two different packages
@@ -6,9 +6,13 @@ package lesson5.package1;
 //        - Create in one of the classes some package-private members(fields or methods).
 //        - In another two classes create objects of the class with package-private members and try to access its members.
 
+import lesson_5.package1.Class1;
+import lesson_5.package1.Class2;
+
 public class Task7 {
     public static void main(String[] args) {
-        new Class2();
+        System.out.println(new Class2().testMethod());
+//        System.out.println(new Class1().getTestField());
     }
 }
 

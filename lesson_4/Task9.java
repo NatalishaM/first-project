@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 //Write your own example of the recursive function. You can find a lot of examples on the Internet.
 
 public class Task9 {

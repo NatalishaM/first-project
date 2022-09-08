@@ -1,4 +1,4 @@
-package lesson5;
+package lesson_5;
 //How can you create a constant in Java, that will be available for everyone outside your class or package?
 
 

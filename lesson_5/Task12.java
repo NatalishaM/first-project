@@ -1,4 +1,4 @@
-package lesson5;
+package lesson_5;
 //Create a new class. Add 5 private fields. Add getter and setters to all the fields.
 public class Task12 {
     public static void main(String[] args) {

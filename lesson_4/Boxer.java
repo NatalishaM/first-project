@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 //Implement the method fight() depending on weight, strength and age of the boxer:
 //        You should write the dependency by yourself. The method should return true or false if our boxer won or lost.
 //public class Boxer {

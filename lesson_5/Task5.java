@@ -1,4 +1,4 @@
-package lesson5;
+package lesson_5;
 
 
 //Create 2 classes with the same name, but put them in different packages. For example, com.domainname.modulename.

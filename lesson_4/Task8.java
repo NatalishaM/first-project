@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 //Find the information about the order of initialization, when you create a new object of a class:
 //        When constructors, initialization blocks are being executed.
 //        When fields are initialized with default values.

@@ -1,4 +1,4 @@
-package lesson4;
+package lesson_4;
 
 //. Create a simple class with some fields.
 //        Demonstrate in your class how we can use initialization blocks.

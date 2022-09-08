@@ -1,9 +1,10 @@
-package lesson5.package1;
+package lesson_5.package1;
+
+
 
 public class Class2{
-    public Class2 (){
-    Class1 full = new Class1();
-        System.out.println (full.getB()+ full.getO());
+    public String testMethod(){
+        return new Class1().getTestField();
+    }
 
-}
 }
