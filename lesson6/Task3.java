@@ -3,19 +3,23 @@ package lesson6;
 //        As mentioned above, changing gears, increasing/decreasing speed should be included. For you specific type of vehicle you will want to add something specific for that type of car.
 public class Task3 {
     public static void main(String[] args) {
-       Renaut renaut = new Renaut("big car", "10");
-        System.out.println(renaut.getCurrentDirection());
-        System.out.println(renaut.getCurrentVelocity());
-        System.out.println(renaut.getName());
-        System.out.println(renaut.getSize());
-       renaut.move(26,0);
-       renaut.steer(45);
-       renaut.stop();
+        Vehicle[] vehicleArray = {
+                new Car(45, 100),
+                new Track(0, 40),
+                new Tractor(55,30)
+        };
 
-
-
-
-
-
+        for (Vehicle item : vehicleArray) {
+            item.steer(10);
+            item.move(5, 5);
+            item.stop();
+            System.out.println();
+        }
     }
 }
+
+
+
+
+
+
